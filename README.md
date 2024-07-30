@@ -6,6 +6,8 @@
 4. [Setup Instructions](#setup-instructions)
 5. [Contributing](#contributing)
 6. [License](#license)
+7. [Contact](#contact)
+
 
 ### NETFLIX Clone
 
@@ -59,28 +61,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you have any questions or need further assistance, please don't hesitate to contact me at
 [Vipin Kumar](mailto:vk20140074250@gmail.com). I'll be happy to help!
-
-### Commit Message Guidelines
-
-- Use the present tense (e.g., "Add feature" instead of "Added feature")
-- Use the imperative mood (e.g., "Fix bug" instead of "Fixes bug
-  ")
-
-### Commit Message Example
-
-"Add user authentication feature"
-
-### API Documentation
-
-The API documentation for this project is available in the `docs` folder. It includes information on the
-API endpoints, request and response formats, and error handling.
-
-### API Endpoints
-
-- **GET /users**: Retrieve a list of all users
-- **POST /users**: Create a new user
-- **GET /movies**: Retrieve a list of all movies
-- **POST /movies**: Create a new movie
-- **GET /movies/:id**: Retrieve a single movie by ID
-- **PUT /movies/:id**: Update a single movie by ID
-- **DELETE /movies/:id**: Delete a single movie by ID
