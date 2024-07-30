@@ -32,10 +32,11 @@ This is a simple Netflix clone built with HTML, CSS, and JavaScript. It includes
 - JavaScript for dynamic functionality and interactivity
 
 ### Project Snapshot
-
-![Netflix Clone](https://user-images.githubusercontent.com/103444142/193444444-5)
-![Uploading Screenshot (227).png…]()
-
+![Netflix-banner](https://github.com/user-attachments/assets/ff9afce9-16c9-4929-be39-c7ca9cf9fd3b)
+![Streaming-section)](https://github.com/user-attachments/assets/a514aa71-b73c-4f65-89d2-68cf0eb50ff4)
+![Download Section](https://github.com/user-attachments/assets/7f939ae6-53a0-4efc-a87b-7615f93cd755)
+![FAQ-section](https://github.com/user-attachments/assets/a93cc3c6-e319-46aa-a8f4-d9c3202aba9d)
+![Footer-section)](https://github.com/user-attachments/assets/203f33e2-8750-4ea1-a394-c6a416c95e29)
 
 ### Setup Instructions
 
