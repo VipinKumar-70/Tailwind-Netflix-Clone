@@ -34,6 +34,8 @@ This is a simple Netflix clone built with HTML, CSS, and JavaScript. It includes
 ### Project Snapshot
 
 ![Netflix Clone](https://user-images.githubusercontent.com/103444142/193444444-5)
+![Uploading Screenshot (227).png…]()
+
 
 ### Setup Instructions
 
